@@ -8,6 +8,9 @@ public class java_스윙1 {
 
 		JFrame f = new JFrame();
 		
+		//실행하면 보이게 해달라
+		f.setVisible(true);
+		f.setPreferredSize(840, 840/12*9);
 		
 	}
 
